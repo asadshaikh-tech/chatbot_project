@@ -35,3 +35,5 @@ cd chatbot_project
 . Create and activate a virtual environment
 python -m venv .venv
 .venv\Scripts\activate
+Install dependencies
+pip install flask
