@@ -35,14 +35,16 @@ git clone https://github.com/yourusername/chatbot_project.git
 cd chatbot_project
 
 2. Create and activate a virtual environment
+   
 python -m venv .venv
+
 .venv\Scripts\activate
 
-3. Install dependencies
+4. Install dependencies
 pip install flask
 
-4. Run the Flask app
+5. Run the Flask app
 python chatbot.py
 
-5. Open in browser
+6. Open in browser
 Navigate to: http://127.0.0.1:5000
