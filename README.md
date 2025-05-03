@@ -42,3 +42,6 @@ pip install flask
 
 4. Run the Flask app
 python chatbot.py
+
+5. Open in browser
+Navigate to: http://127.0.0.1:5000
