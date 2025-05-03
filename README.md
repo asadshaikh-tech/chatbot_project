@@ -39,3 +39,6 @@ python -m venv .venv
 
 3. Install dependencies
 pip install flask
+
+4. Run the Flask app
+python chatbot.py
