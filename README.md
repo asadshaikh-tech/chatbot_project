@@ -29,11 +29,12 @@ This is a beginner-level chatbot project built using Python and Flask as part of
 ## ▶️ Getting Started
 
 ### 1. Clone the repository (or download manually)
-```bash
+
 git clone https://github.com/yourusername/chatbot_project.git
 cd chatbot_project
-. Create and activate a virtual environment
+2. Create and activate a virtual environment
 python -m venv .venv
 .venv\Scripts\activate
-Install dependencies
+
+3. Install dependencies
 pip install flask
