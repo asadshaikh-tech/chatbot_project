@@ -32,6 +32,7 @@ This is a beginner-level chatbot project built using Python and Flask as part of
 
 git clone https://github.com/yourusername/chatbot_project.git
 cd chatbot_project
+
 2. Create and activate a virtual environment
 python -m venv .venv
 .venv\Scripts\activate
